@@ -17,13 +17,13 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["CSE Student","Web Designer","Web developer","Coder","Sports Person"],
+        strings: ["CSE Student","Web Developer","Coder","Sports Person"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["CSE Student","Web Designer","Web developer","Coder","Sports Person"],
+        strings: ["CSE Student","Web Developer","Coder","Sports Person"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
